@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* Navigation */
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav img {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  nav span {
+    display: block;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+  }
+  
+  nav a {
+    color: #666666;
+  }
+  
+  /* Content Container */
+  
+  .content {
+    width: 100%;
+    margin: 10 auto;
+    overflow: scroll;
+  }
+  
+  /* Content Header */
+  
+  .header {
+    background-color: lightskyblue;
+    width: 68%;
+    margin: 0 auto;
+  }
+
+  .header img {
+    width: 300px;
+    background-color: lightskyblue;
+    width: 30%;
+  }
+  
+  /* Content Body */
+  
+  .content .body {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .body p {
+    color: #333333;
+    font-weight: 100;
+    line-height: 34px;
+    width: 90%;
+    margin-top: 18px;
+  }
+  
+  /* Car border */
+  
+  .car {
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightskyblue;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 5% 20%;
+  }
+
+  /* Car Photos */
+  .carpic {
+    border-radius: 12px;
+    max-width: 50%;
+  }
+
+
+  /* Content Button */
+  
+  .button {
+    border-radius: 4px;
+    color: lightskyblue;
+    display: block;
+    font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid;
+  }
+  
+  .button:hover {
+    background-color: lightskyblue;
+    border: 1px solid lightskyblue;
+    color: #FFF;
+  }
+  
+  /* Content Nutrition */
+  
+  ul.usedCar {
+    padding: 20px;
+  }
+  
+  ul.usedCar li {
+    display: inline-block;
+    background-color: lightskyblue;
+    list-style: none;
+    width: 200px;
+    padding: 10px 20px;
+    margin-bottom: 3px;
+  }
+  
+  .usedCar .category {
+    color: white;
+    font-weight: 100;
+    letter-spacing: 2px;
+    display: block;
+  }
+  
+  .usedCar .value {
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+
