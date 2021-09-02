@@ -1,6 +1,6 @@
 # Intro2
 
-A website regarding a car slaes website.
+A website regarding a car sales website.
 
 Empahsis on responsive design
 
