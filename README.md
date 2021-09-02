@@ -4,5 +4,5 @@ A website regarding a car sales website.
 
 Empahsis on responsive design
 
-URL: **[surge](straight-faucet.surge.sh)**
+URL: **[surge](homeless-car-salesman.sh)**
 
